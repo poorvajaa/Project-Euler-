@@ -5,5 +5,5 @@ def multiples_3_and_5():
             sum += value
     return sum
 
-
-print(multiples_3_and_5())
+if __name__ == "__main__":
+    print(multiples_3_and_5())
